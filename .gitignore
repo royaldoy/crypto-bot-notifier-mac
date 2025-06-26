@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+logs/
+*.log
+
+# Data cache
+data/
+*.json
+
+# Environment
+.env
+
+# macOS metadata
+.DS_Store
+
